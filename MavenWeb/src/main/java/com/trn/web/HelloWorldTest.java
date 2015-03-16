@@ -10,7 +10,7 @@ public class HelloWorldTest {
 		
 		HelloWorld hw = (HelloWorld) context.getBean("helloBean");
 		hw.setAge(15);
-		hw.setName("Chandra");
+		hw.setName("Chandra with Git Config");
 		hw.printHello();
 		hw.getAge();
 		hw.getName();
