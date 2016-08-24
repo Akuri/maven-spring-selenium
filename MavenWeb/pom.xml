@@ -70,6 +70,16 @@
 			<version>2.2.2</version>
 			<scope>Provided</scope>
 		</dependency>
+		<dependency>
+		    <groupId>org.seleniumhq.selenium</groupId>
+		    <artifactId>selenium-server</artifactId>
+		    <version>2.50.1</version>
+		</dependency>
+		<dependency>
+	        <groupId>org.seleniumhq.selenium</groupId>
+	        <artifactId>selenium-java</artifactId>
+	        <version>2.50.1</version>
+	    </dependency>
     </dependencies>
 
     <build>
